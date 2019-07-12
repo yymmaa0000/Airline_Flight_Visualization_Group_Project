@@ -1,0 +1,1 @@
+In folder "assembly_code_final_version", open "assembly_code_v2" using VS-2017,then run the main function and have fun with it.You can get more information of this product in "user guide" folder.

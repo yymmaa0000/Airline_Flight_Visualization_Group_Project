@@ -1,0 +1,30 @@
+Compile Instruction for Project Mandarin Orange
+
+.h Files:
+    airline_menu.h
+    arrivalbutton.h
+    departurebutton.h
+    sorting_and_flight.h
+    Zoom_Pan.h
+
+.cpp Files:
+     main.cpp
+    aieline_menu.cpp
+    arrivalbutton.cpp
+    departurebutton.cpp
+    sorting_and_flight.cpp
+    Zoom_Pan.cpp
+    
+Source Files:
+    fssimplewindow.cpp
+    fssimplewindow.h
+    yspng.cpp
+    yspng.h
+    ysglfontdata.c
+    ysglfont.h
+    DrawingUtilNG.cpp
+    DrawingUtilNG.h
+    Data.csv (containing recorded airline information)
+    map4.png (back ground map)
+
+In Visual Studio, open assenmbly_code_v2.vcxproj and run the program.
